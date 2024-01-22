@@ -1,8 +1,4 @@
-### littlecheny's space
-- 👋 Hi, I’m @littlecheny.
-- 👀 I’m interested in poster design and computer science.
-- 🌱 I’m currently learning Information Security as an undergraduate major in Xidian University.
-- 📫 How to reach me chenyulin604@163.com
+Valar Morghulis
 
 <!---
 littlecheny/littlecheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
